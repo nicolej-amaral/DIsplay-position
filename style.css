@@ -11,31 +11,20 @@ body{
 
 .yo{
     padding: 100px;
-    margin: 25px;
+    margin: 30px;
      background-color:RGB(251, 222, 91);
      
+}
+
+.red{
+    padding-right: 360px;
+}
+
+.green{
+    padding-bottom: 350px;
+    
 }
 
 .flex{
     display: flex;
-}
-
-.blue1{
-    padding:100px;
-    background-color:RGB(73, 121, 209);
-}
-
-.yo1{
-    padding: 100px;
-    margin: 25px;
-     background-color:RGB(251, 222, 91);
-     
-}
-
-.flex1{
-    display: flex;
-}
-
-.red{
-    padding-right: 350px;
 }
