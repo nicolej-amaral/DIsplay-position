@@ -28,3 +28,7 @@ body{
 .flex{
     display: flex;
 }
+
+.ocean{
+    padding-bottom: 350px;
+}
