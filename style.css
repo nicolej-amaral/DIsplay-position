@@ -12,7 +12,7 @@ body{
 .yo{
     padding: 100px;
     margin: 25px;
-     background-color:RGB(255, 255, 0);
+     background-color:RGB(251, 222, 91);
      
 }
 
@@ -28,7 +28,7 @@ body{
 .yo1{
     padding: 100px;
     margin: 25px;
-     background-color:RGB(255, 255, 0);
+     background-color:RGB(251, 222, 91);
      
 }
 
@@ -36,3 +36,6 @@ body{
     display: flex;
 }
 
+.red{
+    padding-right: 350px;
+}
