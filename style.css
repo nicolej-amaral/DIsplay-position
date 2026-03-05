@@ -1,5 +1,38 @@
+body{
+    display: flex;
+    align-items: flex-start;
+}
+
 .blue{
-    padding:20px;
+    padding:100px;
     background-color:RGB(73, 121, 209);
+    
+}
+
+.yo{
+    padding: 100px;
+    margin: 25px;
+     background-color:RGB(255, 255, 0);
+     
+}
+
+.flex{
     display: flex;
 }
+
+.blue1{
+    padding:100px;
+    background-color:RGB(73, 121, 209);
+}
+
+.yo1{
+    padding: 100px;
+    margin: 25px;
+     background-color:RGB(255, 255, 0);
+     
+}
+
+.flex1{
+    display: flex;
+}
+
