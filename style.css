@@ -1,46 +1,50 @@
-body{
+body {
     display: flex;
     align-items: flex-start;
 }
 
-.blue{
-    padding:100px;
-    background-color:RGB(73, 121, 209);
-    
+.blue {
+    padding: 100px;
+    background-color: RGB(73, 121, 209);
+
 }
 
-.yo{
+.yo {
     padding: 100px;
     margin: 30px;
-     background-color:RGB(251, 222, 91);
-     
+    background-color: RGB(251, 222, 91);
+
 }
 
-.red{
+.red {
     padding-right: 360px;
 }
 
-.green{
+.green {
     padding-bottom: 350px;
-    
+
 }
 
-.flex{
+.flex {
     display: flex;
 }
 
-.ocean{
+.ocean {
     padding-bottom: 350px;
 }
 
-.pink{
+.pink {
     padding-bottom: 360px;
     display: flex;
-   height: 5px;
-   width: 260px;
+    height: 5px;
+    width: 260px;
 }
 
-.purple{
-   display: flex;
+.purple {
+    display: flex;
     width: 270px;
+}
+
+.blu {
+    height: 260px;
 }
