@@ -32,3 +32,10 @@ body{
 .ocean{
     padding-bottom: 350px;
 }
+
+.pink{
+    padding-bottom: 360px;
+    display: flex;
+   height: 5px;
+   width: 260px;
+}
